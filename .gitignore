@@ -1,0 +1,13 @@
+anaconda-project-local.yml
+
+*.pyc
+*.pyd
+*.pyo
+__pycache__/
+.cache/
+
+.ipynb_checkpoints/
+.Trash-*/
+
+/tmp/
+/envs/
