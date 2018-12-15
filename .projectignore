@@ -10,11 +10,5 @@ __pycache__/
 # Notebook stuff
 /.ipynb_checkpoints
 
-# JupyterLab stuff
-.Trash-*/
-
 # Spyder stuff
 /.spyderproject
-
-/envs/
-/services/
